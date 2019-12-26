@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">MArfanRavyWP_17181333</string>
+    <string name="penonton">PENONTON</string>
+    <string name="_600jt">600JT</string>
+    <string name="_40_jt">40 JT</string>
+    <string name="pelanggan">PELANGGAN</string>
+    <string name="_99rb">99rb</string>
+    <string name="suka">SUKA</string>
+    <string name="jangan_lupa_like_and_subscribe">Jangan lupa suka dan berlangganan</string>
 </resources>

@@ -63,7 +63,7 @@
             <TextView
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
-                android:text="VIEWS"
+                android:text="@string/penonton"
                 android:drawablePadding="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="60dp"
@@ -75,7 +75,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="600 M"
+                android:text="@string/_600jt"
                 android:textSize="20sp"
                 android:layout_marginTop="55dp"
                 android:layout_marginLeft="60dp"
@@ -84,7 +84,7 @@
             <TextView
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
-                android:text="SUBSCRIBER"
+                android:text="@string/pelanggan"
                 android:drawablePadding="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="160dp"
@@ -96,7 +96,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="40 M"
+                android:text="@string/_40_jt"
                 android:textSize="20sp"
                 android:layout_marginTop="55dp"
                 android:layout_marginLeft="175dp"
@@ -106,7 +106,7 @@
             <TextView
                 android:layout_width="300dp"
                 android:layout_height="wrap_content"
-                android:text="LIKE"
+                android:text="@string/suka"
                 android:drawablePadding="20dp"
                 android:layout_marginTop="20dp"
                 android:layout_marginLeft="310dp"
@@ -118,7 +118,7 @@
             <TextView
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="99 K"
+                android:text="@string/_99rb"
                 android:textSize="20sp"
                 android:layout_marginTop="55dp"
                 android:layout_marginLeft="305dp"
@@ -136,7 +136,7 @@
                     android:layout_height="wrap_content"
                     android:layout_marginLeft="15dp"
                     android:layout_marginTop="5dp"
-                    android:text="Jangan lupa Like and Subscribe "
+                    android:text="@string/jangan_lupa_like_and_subscribe"
                     android:textColor="@android:color/black"
                     android:textSize="20sp"
                     android:textStyle="bold" />
